@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gastón Giorgio
+# 👋 ¡Hola! Soy Gastón Armando Giorgio
 
 Soy estudiante de la **Tecnicatura en Programación en la UTN**, apasionado por el desarrollo backend y el diseño de bases de datos. Estoy buscando mi primera oportunidad profesional en el mundo IT, construyendo proyectos y aprendiendo todos los días. 🚀
 

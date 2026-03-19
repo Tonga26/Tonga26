@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gastón Giorgio
 
-<!--
-**Tonga26/Tonga26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la **Tecnicatura en Programación en la UTN**, apasionado por el desarrollo backend y el diseño de bases de datos. Estoy buscando mi primera oportunidad profesional en el mundo IT, construyendo proyectos y aprendiendo todos los días. 🚀
 
-Here are some ideas to get you started:
+### 👨‍💻 Un poco sobre mí:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Actualmente trabajando en:** La refactorización de mi proyecto personal **Vitalis**, migrándolo de arquitectura JDBC pura a **Spring Boot**.
+- 🌱 **Actualmente aprendiendo:** Profundizando en Java EE, Spring Framework, Hibernate, y armando bases de frontend con React y Angular.
+- 🎓 **Próximamente en mi radar:** Desarrollo web (HTML, CSS, JS, TS) y bases de datos NoSQL como MongoDB en la facultad.
+- 👯 **Busco colaborar en:** Proyectos reales que me permitan aplicar mis conocimientos de POO en Java y gestión de bases de datos relacionales.
+- 💬 **Pregúntame sobre:** Lógica de programación, modelado de datos (MySQL/PostgreSQL), Python o... ¡recomendaciones de gaming!
+- 📫 **Cómo contactarme:** https://www.linkedin.com/in/gastongiorgio/ | gastongiorgio26@gmail.com
+- ⚡ **Dato curioso:** Cuando no estoy codeando o cursando, me gusta salir a caminar para despejar la mente o disfrutar de un buen videojuego. 🎮
+
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes:**
+- Java (POO)
+- Python (Fundamentos)
+
+**Bases de Datos:**
+- MySQL
+- PostgreSQL
+
+**Ecosistema & Frontend (En formación):**
+- Spring Boot / Hibernate
+- React / Angular
+
+---

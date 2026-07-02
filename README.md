@@ -1,35 +1,38 @@
-# 👋 ¡Hola! Soy Gastón Armando Giorgio
+# 👋 ¡Hola! Soy Gastón Giorgio
 
-Soy estudiante de la **Tecnicatura en Programación en la UTN**, apasionado por el desarrollo backend y el diseño de bases de datos. Estoy buscando mi primera oportunidad profesional en el mundo IT, construyendo proyectos y aprendiendo todos los días. 🚀
+**Backend & Full-Stack Developer | Estudiante de Programación en UTN | Mendoza, Argentina**
 
-### 👨‍💻 Un poco sobre mí:
+Soy un desarrollador orientado al Backend y al diseño de bases de datos, actualmente transitando mi segundo año de la **Tecnicatura Universitaria en Programación (UTN)**. Me apasiona construir arquitecturas robustas, diseñar APIs RESTful y resolver problemas complejos mediante código limpio. 🚀
 
-- 🔭 **Actualmente trabajando en:** La refactorización de mi proyecto personal **Vitalis**, migrándolo de arquitectura JDBC pura a **Spring Boot**.
-- 🌱 **Actualmente aprendiendo:** Profundizando en Java EE, Spring Framework, Hibernate, y preparándome del lado frontend con React y Angular.
-- 🎓 **Próximamente en mi radar:** Desarrollo web (HTML, CSS, JS, TS) y bases de datos NoSQL como MongoDB en la facultad.
-- 👯 **Busco colaborar en:** Proyectos reales que me permitan aplicar mis conocimientos de POO en Java y gestión de bases de datos relacionales.
-- 💬 **Pregúntame sobre:** Lógica de programación, modelado de datos (MySQL/PostgreSQL), Python o... ¡recomendaciones de gaming!
+### 👨‍💻 Sobre mi perfil técnico:
 
-- 📫 **Cómo contactarme:**
-  <br>
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)
+- 🎓 **Formación Académica:** Recientemente finalicé el 3er cuatrimestre en la UTN. Cuento con bases sólidas en Arquitectura de Sistemas, POO, Patrones de Diseño y Matemáticas/Estadística aplicadas.
+- 💻 **Backend & Bases de Datos:** Dominio de **Java** y **Spring Boot** para la construcción de APIs REST. Experiencia práctica en modelado y gestión de bases de datos relacionales (**MySQL, PostgreSQL**) y NoSQL (**MongoDB**).
+- 🎨 **Frontend:** Capacidad para desarrollar interfaces dinámicas de principio a fin utilizando **HTML5, CSS3, JavaScript y TypeScript puro** (manipulación nativa del DOM, fetching asíncrono y metodologías como BEM).
+- 🌱 **Actualmente aprendiendo:** Consolidando mi perfil Full-Stack integrando **React** a mis desarrollos y explorando el área de Quality Assurance (QA).
+- ⚡ **Dato curioso:** Cuando no estoy codeando, me gusta salir a caminar para despejar la mente o sumergirme en un buen videojuego. 🎮
 
-- ⚡ **Dato curioso:** Cuando no estoy codeando o cursando, me gusta salir a caminar para despejar la mente o disfrutar de un buen videojuego. 🎮
+### 🛠️ Stack Tecnológico
 
-### 🛠️ Tecnologías y Herramientas
+| Backend & Lenguajes | Frontend | Bases de Datos |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | |
+| | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | |
 
-<div align="left">
+### 📊 Estadísticas de GitHub
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-  <br>
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+[![GitHub Stats de Tonga26](https://github-readme-stats.vercel.app/api?username=Tonga26&show_icons=true&theme=radium&hide_border=true&count_private=true)](https://github.com/Tonga26)
 
-</div>
+[![Top Lenguajes de Tonga26](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonga26&layout=compact&theme=radium&hide_border=true)](https://github.com/Tonga26)
 
 ---
+
+### 📫 Conectemos:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gastongiorgio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gastongiorgio26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>

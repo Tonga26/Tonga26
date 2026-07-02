@@ -6,7 +6,7 @@ Soy un desarrollador orientado al Backend y al diseño de bases de datos, actual
 
 ### 👨‍💻 Sobre mi perfil técnico:
 
-- 🎓 **Formación Académica:** Recientemente finalicé el 3er cuatrimestre en la UTN. Cuento con bases sólidas en Arquitectura de Sistemas, POO, Patrones de Diseño y Matemáticas/Estadística aplicadas.
+- 🎓 **Formación Académica:** Recientemente finalicé el 3er cuatrimestre en la UTN (2do año). Cuento con bases sólidas en Arquitectura de Sistemas, POO, Patrones de Diseño y Matemáticas/Estadística aplicadas.
 - 💻 **Backend & Bases de Datos:** Dominio de **Java** y **Spring Boot** para la construcción de APIs REST. Experiencia práctica en modelado y gestión de bases de datos relacionales (**MySQL, PostgreSQL**) y NoSQL (**MongoDB**).
 - 🎨 **Frontend:** Capacidad para desarrollar interfaces dinámicas de principio a fin utilizando **HTML5, CSS3, JavaScript y TypeScript puro** (manipulación nativa del DOM, fetching asíncrono y metodologías como BEM).
 - 🌱 **Actualmente aprendiendo:** Consolidando mi perfil Full-Stack integrando **React** a mis desarrollos y explorando el área de Quality Assurance (QA).
@@ -24,9 +24,7 @@ Soy un desarrollador orientado al Backend y al diseño de bases de datos, actual
 
 ### 📊 Estadísticas de GitHub
 
-[![GitHub Stats de Tonga26](https://github-readme-stats.vercel.app/api?username=Tonga26&show_icons=true&theme=radium&hide_border=true&count_private=true)](https://github.com/Tonga26)
-
-[![Top Lenguajes de Tonga26](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonga26&layout=compact&theme=radium&hide_border=true)](https://github.com/Tonga26)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tonga26&theme=dark&hide_border=true)](https://github.com/Tonga26)
 
 ---
 

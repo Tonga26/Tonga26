@@ -1,36 +1,223 @@
-# 👋 ¡Hola! Soy Gastón Giorgio
+# 👋 Hi, I'm Gastón Giorgio
 
-**Backend & Full-Stack Developer | Estudiante de Programación en UTN | Mendoza, Argentina**
+**Java Backend Developer | Full Stack Developer | Programming Student @ UTN | Mendoza, Argentina 🇦🇷**
 
-Soy un desarrollador orientado al Backend y al diseño de bases de datos, actualmente transitando mi segundo año de la **Tecnicatura Universitaria en Programación (UTN)**. Me apasiona construir arquitecturas robustas, diseñar APIs RESTful y resolver problemas complejos mediante código limpio. 🚀
+I'm a Java Backend Developer focused on building scalable web applications using **Java**, **Spring Boot**, **REST APIs** and relational databases.
 
-### 👨‍💻 Sobre mi perfil técnico:
+Currently I'm finishing the last semester of the **University Programming Degree (UTN)** while continuously improving my skills through personal projects and self-study.
 
-- 🎓 **Formación Académica:** Recientemente finalicé el 3er cuatrimestre en la UTN (2do año). Cuento con bases sólidas en Arquitectura de Sistemas, POO, Patrones de Diseño y Matemáticas/Estadística aplicadas.
-- 💻 **Backend & Bases de Datos:** Dominio de **Java** y **Spring Boot** para la construcción de APIs REST. Experiencia práctica en modelado y gestión de bases de datos relacionales (**MySQL, PostgreSQL**) y NoSQL (**MongoDB**).
-- 🎨 **Frontend:** Capacidad para desarrollar interfaces dinámicas de principio a fin utilizando **HTML5, CSS3, JavaScript y TypeScript puro** (manipulación nativa del DOM, fetching asíncrono y metodologías como BEM).
-- 🌱 **Actualmente aprendiendo:** Consolidando mi perfil Full-Stack integrando **React** a mis desarrollos y explorando el área de Quality Assurance (QA).
-- ⚡ **Dato curioso:** Cuando no estoy codeando, me gusta salir a caminar para despejar la mente o sumergirme en un buen videojuego. 🎮
-
-### 🛠️ Stack Tecnológico
-
-| Backend & Lenguajes | Frontend | Bases de Datos |
-| :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | |
-| | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | |
-
-### 📊 Estadísticas de GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tonga26&theme=dark&hide_border=true)](https://github.com/Tonga26)
+My goal is to start my professional career as a Backend or Full Stack Developer, contributing to real-world projects while continuing to learn modern software engineering practices.
 
 ---
 
-### 📫 Conectemos:
+# 🚀 Current Focus
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gastongiorgio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gastongiorgio26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</div>
+- 🔭 Improving and deploying my **Food Store** Full Stack project.
+- 📚 Learning **Docker**, **React** and automated testing.
+- ☁️ Preparing applications for cloud deployment.
+- 🎯 Looking for my first professional opportunity as a Java Backend Developer.
+
+---
+
+# 💻 Technical Skills
+
+## Backend
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- JDBC
+- REST APIs
+- Hibernate
+- Object-Oriented Programming (OOP)
+- Layered Architecture
+- DTO Pattern
+- Transaction Management
+- Swagger / OpenAPI
+
+## Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Fetch API
+- Responsive Design
+- Vite
+
+## Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+## Tools
+
+- Git
+- GitHub
+- Postman
+- Maven
+- Gradle
+- Jira
+
+## Software Development
+
+- Scrum
+- Kanban
+- SDLC
+- Software Design
+- Database Modeling
+- Basic QA & Testing
+
+---
+
+# ⭐ Featured Projects
+
+## 🍔 Food Store
+
+Full Stack E-commerce application developed as my Final Programming Project.
+
+### Features
+
+- User authentication
+- Product catalog
+- Shopping cart
+- Order management
+- Admin dashboard
+- REST API
+- CRUD operations
+- Role-based access
+
+### Technologies
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- TypeScript
+- HTML5
+- CSS3
+
+🔗 **Repository**
+> https://github.com/Tonga26/Food-Store_TPI_Programacion-3
+
+---
+
+## 🏥 Vitalis
+
+Clinical Management System originally developed with Java and JDBC following the DAO pattern.
+
+Currently being modernized to Spring Boot as part of my learning roadmap.
+
+🔗 **Repository**
+> https://github.com/Tonga26/vitalis-java-jdbc
+
+---
+
+# 📚 Currently Learning
+
+- Docker
+- React
+- JUnit 5
+- Mockito
+- Git Advanced
+- CI/CD
+- Cloud Deployment
+
+---
+
+# 📈 Learning Roadmap
+
+✅ Java
+
+✅ Spring Boot
+
+✅ SQL
+
+✅ MySQL
+
+✅ PostgreSQL
+
+✅ MongoDB
+
+✅ REST APIs
+
+✅ Spring Data JPA
+
+✅ TypeScript
+
+✅ Git
+
+✅ GitHub
+
+✅ Postman
+
+✅ Maven
+
+✅ Jira
+
+🔄 Docker
+
+🔄 React
+
+🔄 Testing
+
+🔄 CI/CD
+
+🔄 Cloud
+
+🔄 Kafka
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tonga26&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonga26&layout=compact&theme=dark&hide_border=true)
+
+---
+
+# 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)

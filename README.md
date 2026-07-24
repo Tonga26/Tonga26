@@ -1,232 +1,68 @@
 # 👋 Hi, I'm Gastón Giorgio
 
-**Java Backend Developer | Full Stack Developer | Programming Student @ UTN | Mendoza, Argentina 🇦🇷**
+**Java Backend Developer | Software Engineering Student @ UTN | Mendoza, Argentina 🇦🇷**
 
-I'm a Java Backend Developer focused on building scalable web applications using **Java**, **Spring Boot**, **REST APIs** and relational databases.
+I am a Backend-focused Software Developer with nearly two years of academic and hands-on experience building scalable, secure web applications. I specialize in the **Java & Spring Boot ecosystem**, focusing on RESTful API design, relational database modeling, and robust security architectures. 
 
-Currently I'm finishing the last semester of the **University Programming Degree (UTN)** while continuously improving my skills through personal projects and self-study.
-
-My goal is to start my professional career as a Backend or Full Stack Developer, contributing to real-world projects while continuing to learn modern software engineering practices.
+Moving beyond the basics, I thrive on solving complex architectural problems, writing clean, maintainable code, and implementing industry-standard practices like Stateless Authentication and Layered Architectures.
 
 ---
 
-# 🚀 Current Focus
+# 💻 Tech Stack & Core Skills
 
-- 🔭 Improving and deploying my **Food Store** Full Stack project.
-- 📚 Learning **Docker**, **React** and automated testing.
-- ☁️ Preparing applications for cloud deployment.
-- 🎯 Looking for my first professional opportunity as a Java Backend Developer.
-
----
-
-# 💻 Technical Skills
-
-## Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- JWT (JSON Web Tokens)
-- Spring Data JPA
-- JDBC
-- REST APIs
-- Hibernate
-- Object-Oriented Programming (OOP)
-- Layered Architecture
-- DTO Pattern
-- Transaction Management
-- Swagger / OpenAPI
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Fetch API
-- Responsive Design
-- Vite
-
-## Databases
-
-- MySQL
-- PostgreSQL
-- MongoDB
-
-## Tools
-
-- Git
-- GitHub
-- Postman
-- Maven
-- Gradle
-- Jira
-
-## Software Development
-
-- Scrum
-- Kanban
-- SDLC
-- Software Design
-- Database Modeling
-- Basic QA & Testing
+- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  
+- **Backend & Architecture:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+  > *RESTful APIs, Stateless Architecture, JWT Authentication, OOP, DTO & DAO Patterns.*
+  
+- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+  > *Relational Modeling, Transaction Management.*
+  
+- **Frontend:** ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  > *DOM Manipulation, Fetch API Adapter Pattern, Responsive Design.*
+  
+- **Tools & Workflow:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+  > *Agile (Scrum/Kanban), Postman QA Testing, SDLC.*
 
 ---
 
 # ⭐ Featured Projects
 
 ## 🍔 Food Store
+*Full Stack E-commerce application featuring a robust stateless backend and dynamic UI.*
+- **Security:** Designed and implemented a custom authentication flow using **Spring Security 6**, **JWT**, and **BCrypt**.
+- **Architecture:** Built a RESTful Stateless API strictly separating business logic, data access, and presentation layers.
+- **Frontend Integration:** Developed a TypeScript/Vite client utilizing a centralized Fetch wrapper to securely handle Bearer tokens and protected routes.
+- **Database:** Automated database seeding and robust CRUD operations via Spring Data JPA.
 
-Full Stack E-commerce application developed as my Final Programming Project.
-
-### Features
-
-- Stateless JWT Authentication
-- Role-Based Access Control (RBAC)
-- Product catalog
-- Shopping cart
-- Order management
-- Admin dashboard
-- REST API
-- CRUD operations
-
-### Technologies
-
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- Spring Data JPA
-- MySQL
-- TypeScript
-- HTML5
-- CSS3
-
-🔗 **Repository**
-> https://github.com/Tonga26/Food-Store_TPI_Programacion-3
-
----
+🔗 **Repository:** [github.com/Tonga26/Food-Store_TPI_Programacion-3](https://github.com/Tonga26/Food-Store_TPI_Programacion-3)
 
 ## 🏥 Vitalis
+*Clinical Management System focused on deep backend fundamentals.*
+- Originally built with plain Java and JDBC implementing a strict **DAO (Data Access Object) pattern** from scratch.
+- Currently modernizing the architecture migrating to Spring Boot.
 
-Clinical Management System originally developed with Java and JDBC following the DAO pattern.
-
-Currently being modernized to Spring Boot as part of my learning roadmap.
-
-🔗 **Repository**
-> https://github.com/Tonga26/vitalis-java-jdbc
+🔗 **Repository:** [github.com/Tonga26/vitalis-java-jdbc](https://github.com/Tonga26/vitalis-java-jdbc)
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Current Focus & Learning Roadmap
 
-- Docker
-- React
-- JUnit 5
-- Mockito
-- Git Advanced
-- CI/CD
-- Cloud Deployment
-
----
-
-# 📈 Learning Roadmap
-
-✅ Java
-
-✅ Spring Boot
-
-✅ Spring Security
-
-✅ JWT
-
-✅ SQL
-
-✅ MySQL
-
-✅ PostgreSQL
-
-✅ MongoDB
-
-✅ REST APIs
-
-✅ Spring Data JPA
-
-✅ TypeScript
-
-✅ Git
-
-✅ GitHub
-
-✅ Postman
-
-✅ Maven
-
-✅ Jira
-
-🔄 Docker
-
-🔄 React
-
-🔄 Testing
-
-🔄 CI/CD
-
-🔄 Cloud
-
-🔄 Kafka
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+My goal is to continue evolving towards an Enterprise-level engineering mindset. I am currently focused on:
+- 🐳 **Containerization:** Learning **Docker** to easily spin up my Spring Boot + MySQL environments.
+- 🧪 **Automated Testing:** Implementing unit and integration tests with **JUnit 5** and **Mockito**.
+- ⚛️ **Frontend Evolution:** Preparing to migrate vanilla TS interfaces to **React**.
 
 ---
 
 # 📊 GitHub Statistics
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tonga26&theme=dark&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonga26&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 # 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/)
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)

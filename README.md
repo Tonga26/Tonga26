@@ -25,6 +25,8 @@ My goal is to start my professional career as a Backend or Full Stack Developer,
 
 - Java
 - Spring Boot
+- Spring Security
+- JWT (JSON Web Tokens)
 - Spring Data JPA
 - JDBC
 - REST APIs
@@ -79,19 +81,21 @@ Full Stack E-commerce application developed as my Final Programming Project.
 
 ### Features
 
-- User authentication
+- Stateless JWT Authentication
+- Role-Based Access Control (RBAC)
 - Product catalog
 - Shopping cart
 - Order management
 - Admin dashboard
 - REST API
 - CRUD operations
-- Role-based access
 
 ### Technologies
 
 - Java
 - Spring Boot
+- Spring Security
+- JWT
 - Spring Data JPA
 - MySQL
 - TypeScript
@@ -131,6 +135,10 @@ Currently being modernized to Spring Boot as part of my learning roadmap.
 ✅ Java
 
 ✅ Spring Boot
+
+✅ Spring Security
+
+✅ JWT
 
 ✅ SQL
 
@@ -182,6 +190,7 @@ Currently being modernized to Spring Boot as part of my learning roadmap.
 ### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 

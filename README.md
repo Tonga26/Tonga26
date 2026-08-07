@@ -1,157 +1,144 @@
 # 👋 Hi, I'm Gastón Giorgio
 
-### Java Backend Developer
+### Full Stack Developer
 
 **Software Engineering Student @ UTN | Mendoza, Argentina 🇦🇷**
 
-I am a Backend-focused Software Developer passionate about building secure, scalable and maintainable applications using the **Java & Spring Boot ecosystem**.
+I'm a Full Stack Software Developer passionate about building secure, scalable, and maintainable web applications using the **Java & Spring Boot ecosystem**.
 
-My main interests are backend architecture, RESTful API design, relational databases, authentication and authorization with Spring Security, and modern development workflows using Docker.
+My main interests include backend architecture, RESTful API design, relational databases, authentication and authorization with Spring Security, and modern web development.
 
-I enjoy transforming academic projects into production-oriented applications by applying clean architecture, design patterns and industry best practices.
-
----
+I enjoy transforming academic projects into production-oriented applications by applying clean architecture, design patterns, and industry best practices.
 
 # 💻 Tech Stack & Core Skills
 
 ### ☕ Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🚀 Backend & Architecture
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-> RESTful APIs • Layered Architecture • Spring Security • JWT Authentication • DTO Pattern • Repository Pattern • Object-Oriented Programming
-
----
+> RESTful APIs • Layered Architecture • Spring Security • JWT Authentication • Spring Data JPA • Hibernate • DTO Pattern • Repository Pattern • Object-Oriented Programming
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-> Relational Database Modeling • SQL • Basic NoSQL Concepts
-
----
+> Relational Database Modeling • SQL • Basic NoSQL Modeling
 
 ### 🎨 Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-> Multi-Page Applications • Fetch API • Modular Architecture • Responsive Design
-
----
+> Responsive Design • Fetch API • SPA Fundamentals • Modular Frontend Architecture
 
 ### 🐳 DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-> Docker • REST API Testing • Git Workflow • SDLC • Agile (Scrum / Kanban)
-
----
+> Containerization • Build Automation • REST API Testing • Git Workflow • SDLC • Agile (Scrum / Kanban)
 
 # 🎯 What I'm Looking For
 
-I'm currently seeking my first professional opportunity as a Java Backend Developer, where I can contribute to real-world projects while continuing to grow in software architecture, Spring Boot, and modern backend development.
+I'm currently seeking my first professional opportunity as a **Full Stack Developer**, with a strong focus on **Java Backend development**.
 
----
+My goal is to contribute to real-world products while continuing to grow in **Spring Boot, React, software architecture, and modern web development**. I'm especially interested in collaborative teams where I can learn, take on new challenges, and build software that creates real value.
 
 # ⭐ Featured Projects
 
 ## 🍔 Food Store
 **Full Stack E-commerce platform built with Java, Spring Boot, TypeScript, MySQL and Docker.**
 
-A production-oriented personal project featuring a secure RESTful API, role-based authentication, containerized deployment, and a modular Multi-Page frontend.
+A production-oriented project featuring a secure RESTful API, role-based authentication, containerized deployment, and a modular frontend architecture.
 
 ### Highlights
 
-- 🔐 Stateless authentication with **Spring Security 6**, **JWT** and **BCrypt**.
-- 🏛️ Layered Architecture with Controllers, Services, Repositories and DTOs.
-- 🗄️ MySQL persistence using Spring Data JPA and Hibernate.
-- 🐳 Fully containerized using **Docker** and **Docker Compose**.
-- 📖 Interactive API documentation with **OpenAPI (Swagger)**.
-- ⚙️ Automated seeders for demo users, categories and products.
+- 🔐 Stateless authentication with **Spring Security 6**, **JWT**, and **BCrypt**.
+- 🏛️ Layered Architecture implementing Controllers, Services, Repositories, and the DTO Pattern.
+- 🗄️ Relational persistence management using **Spring Data JPA** and **Hibernate**.
+- 🐳 Fully containerized environment using **Docker** and **Docker Compose**.
+- 📖 Interactive API documentation generated with **OpenAPI (Swagger)**.
+- ⚙️ Automated data seeders for database initialization (users, categories, products).
 - 🎯 Frontend built with **TypeScript + Vite**, consuming the REST API through a centralized HTTP wrapper.
 
-**Tech Stack**
+**Tech Stack:** `Java 21` · `Spring Boot` · `Spring Security` · `Hibernate` · `MySQL` · `Docker` · `TypeScript` · `Vite`
 
-`Java 21` · `Spring Boot` · `Spring Security` · `JWT` · `Hibernate` · `MySQL` · `Docker` · `Docker Compose` · `TypeScript` · `Vite`
+🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/Food-Store_TPI_Programacion-3)
 
-🔗 **Repository:**  
-https://github.com/Tonga26/Food-Store_TPI_Programacion-3
+---
+
+## 📝 Todo Machine (Deployed)
+**A modern React SPA focused on state management, component architecture, and frontend best practices.**
+
+A practical implementation of the React ecosystem, demonstrating the ability to build responsive, data-driven user interfaces with custom hooks and persistent local storage.
+
+### Highlights
+
+- ⚛️ Component-based architecture with robust **State Management** and **Custom Hooks**.
+- 💾 Data persistence utilizing the **Local Storage API**.
+- 🎨 Responsive UI implementing the **BEM CSS Methodology**.
+- 🚀 Automated CI/CD deployment flow via **GitHub Pages**.
+- 🔍 Real-time search filtering and dynamic UI updates.
+
+**Tech Stack:** `React 18` · `JavaScript (ES6+)` · `CSS3` · `GitHub Pages`
+
+🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/curso-react-intro) | 🚀 **Live Demo:** [Experience the App](https://gastongiorgio.github.io/curso-react-intro)
 
 ---
 
 ## 🏥 Vitalis
-
 **Clinical Management System focused on backend architecture and software design principles.**
 
-Originally developed using **Java + JDBC**, implementing the **DAO Pattern**, transaction management and relational database design from scratch.
-
-The project is currently being modernized by migrating its architecture to the Spring ecosystem.
+Originally developed using core **Java and JDBC**, this project served as an intensive deep dive into building custom ORM-like solutions, transaction management, and the DAO pattern from scratch. It is currently being modernized into a full Spring Boot web application.
 
 ### Highlights
 
-- Java OOP
-- JDBC
-- DAO Pattern
-- Layered Architecture
-- Relational Database Modeling
-- Currently being migrated to Spring Boot
+- 🏗️ Implementation of the **DAO Pattern** for robust data access abstraction.
+- 🧠 Strong focus on **Object-Oriented Programming (OOP)** and clean architectural boundaries.
+- 💾 Low-level database interaction and transaction management via **JDBC**.
+- 🗄️ Comprehensive relational database modeling for complex clinical domains.
+- 🔄 Currently undergoing architectural migration to the Spring ecosystem.
 
-🔗 **Repository:**  
-https://github.com/Tonga26/vitalis-java-jdbc
+**Tech Stack:** `Java` · `JDBC` · `MySQL` · `Design Patterns`
+
+🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/vitalis-java-jdbc)
 
 # 🚀 Current Focus & Learning Roadmap
 
-I'm continuously expanding my backend expertise while strengthening my frontend and software engineering skills. My current learning roadmap includes:
+I'm continuously expanding my engineering toolkit, prioritizing scalability, automated testing, and modern frontend integration. My active learning roadmap includes:
 
-- ⚛️ **React + TypeScript — Migrating from Multi-Page Applications to modern Single Page Applications** — Building modern Single Page Applications (SPA) and integrating them with Spring Boot APIs.
-- 🍃 **MongoDB** — Reinforcing NoSQL modeling and integrating MongoDB with Spring Data.
-- 🧪 **Testing** — Learning unit and integration testing with **JUnit 5**, **Mockito**, and **Testcontainers**.
-- ☁️ **Cloud & Deployment** — Exploring deployment strategies, Linux servers, CI/CD pipelines and cloud platforms.
-- 🏗️ **Spring Ecosystem** — Deepening my knowledge of advanced Spring features, software architecture and enterprise development practices.
-- 📚 **Software Engineering** — Continuously improving clean architecture, design patterns and best practices for maintainable applications.
-
-### 🛠️ Tools & Workflow
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-> Git Workflow • Containerization • API Testing • Agile (Scrum / Kanban)
+- ⚛️ **Modern Frontend Architecture** — Mastering **React** to build robust Single Page Applications (SPAs) and integrating them seamlessly with Java REST APIs.
+- 🍃 **NoSQL Persistence** — Reinforcing data modeling concepts and integrating **MongoDB** with Spring Data.
+- 🧪 **Quality Assurance & Testing** — Implementing unit and integration tests using **JUnit 5**, **Mockito**, and **Testcontainers** to guarantee code reliability.
+- ☁️ **Cloud & DevOps** — Exploring CI/CD pipelines (GitHub Actions), container orchestration, and cloud deployment strategies (Render, Vercel, AWS).
+- 🏗️ **Enterprise Architecture** — Deepening my understanding of advanced Spring features, microservices fundamentals, and clean code principles.
 
 # 📫 Let's Connect
 
-I'm always open to connecting with other developers, discussing software engineering, and exploring new professional opportunities.
+I'm always open to discussing software architecture, sharing technical challenges, and exploring professional opportunities. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)
 
 ---
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to connect.
+*Thanks for stopping by! Feel free to explore my repositories or reach out directly.*hesitate to reach out if you'd like to connect.

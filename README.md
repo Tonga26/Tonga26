@@ -49,6 +49,7 @@ I enjoy transforming academic projects into production-oriented applications by 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -57,12 +58,6 @@ I enjoy transforming academic projects into production-oriented applications by 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 > Containerization • Build Automation • REST API Testing • Git Workflow • SDLC • Agile (Scrum / Kanban)
-
-# 🎯 What I'm Looking For
-
-I'm currently seeking my first professional opportunity as a **Full Stack Developer**, with a strong focus on **Java Backend development**.
-
-My goal is to contribute to real-world products while continuing to grow in **Spring Boot, React, software architecture, and modern web development**. I'm especially interested in collaborative teams where I can learn, take on new challenges, and build software that creates real value.
 
 # ⭐ Featured Projects
 
@@ -81,7 +76,7 @@ A production-oriented project featuring a secure RESTful API, role-based authent
 - ⚙️ Automated data seeders for database initialization (users, categories, products).
 - 🎯 Frontend built with **TypeScript + Vite**, consuming the REST API through a centralized HTTP wrapper.
 
-**Tech Stack:** `Java 21` · `Spring Boot` · `Spring Security` · `Hibernate` · `MySQL` · `Docker` · `TypeScript` · `Vite`
+**Tech Stack:** `Java 21` · `Spring Boot` · `Spring Security` · `Hibernate` · `Spring Data JPA` ·  `MySQL` · `TypeScript` · `Vite` ·  `Docker` · `Docker Compose`
 
 🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/Food-Store_TPI_Programacion-3)
 
@@ -94,7 +89,7 @@ A practical implementation of the React ecosystem, demonstrating the ability to 
 
 ### Highlights
 
-- ⚛️ Component-based architecture with robust **State Management** and **Custom Hooks**.
+- ⚛️ Component-based architecture using **React state management** and **Custom Hooks**.
 - 💾 Data persistence utilizing the **Local Storage API**.
 - 🎨 Responsive UI implementing the **BEM CSS Methodology**.
 - 🚀 Automated CI/CD deployment flow via **GitHub Pages**.
@@ -123,11 +118,17 @@ Originally developed using core **Java and JDBC**, this project served as an int
 
 🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/vitalis-java-jdbc)
 
+# 🎯 What I'm Looking For
+
+I'm currently seeking my first professional opportunity as a **Full Stack Developer**, with a strong focus on **Java Backend development**.
+
+My goal is to contribute to real-world products while continuing to grow in **Spring Boot, React, software architecture, and modern web development**. I'm especially interested in collaborative teams where I can learn, take on new challenges, and build software that creates real value.
+
 # 🚀 Current Focus & Learning Roadmap
 
 I'm continuously expanding my engineering toolkit, prioritizing scalability, automated testing, and modern frontend integration. My active learning roadmap includes:
 
-- ⚛️ **Modern Frontend Architecture** — Mastering **React** to build robust Single Page Applications (SPAs) and integrating them seamlessly with Java REST APIs.
+- ⚛️ **Modern Frontend Architecture** — Building a solid foundation in **React** to develop modern Single Page Applications (SPAs) and integrate them seamlessly with Java REST APIs.
 - 🍃 **NoSQL Persistence** — Reinforcing data modeling concepts and integrating **MongoDB** with Spring Data.
 - 🧪 **Quality Assurance & Testing** — Implementing unit and integration tests using **JUnit 5**, **Mockito**, and **Testcontainers** to guarantee code reliability.
 - ☁️ **Cloud & DevOps** — Exploring CI/CD pipelines (GitHub Actions), container orchestration, and cloud deployment strategies (Render, Vercel, AWS).
@@ -140,5 +141,4 @@ I'm always open to discussing software architecture, sharing technical challenge
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongiorgio/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongiorgio26@gmail.com)
 
----
-*Thanks for stopping by! Feel free to explore my repositories or reach out directly.*hesitate to reach out if you'd like to connect.
+*Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to connect.*

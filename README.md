@@ -49,7 +49,7 @@ I enjoy transforming academic projects into production-oriented applications by 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -97,7 +97,7 @@ A practical implementation of the React ecosystem, demonstrating the ability to 
 
 **Tech Stack:** `React 18` · `JavaScript (ES6+)` · `CSS3` · `GitHub Pages`
 
-🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/curso-react-intro) | 🚀 **Live Demo:** [Experience the App](https://gastongiorgio.github.io/curso-react-intro)
+🔗 **Repository:** [View Source Code](https://github.com/gastongiorgio/curso-react-intro) | 🚀 **Live Demo:** [Experience the App](https://gastongiorgio.github.io/curso-react)
 
 ---
 

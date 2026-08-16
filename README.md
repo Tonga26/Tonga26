@@ -2,13 +2,14 @@
 
 ### Full Stack Developer
 
-**Programming Student @ UTN | Mendoza, Argentina 🇦🇷**
+Programming Student @ UTN | Mendoza, Argentina 🇦🇷
 
-I'm a Full Stack Software Developer passionate about building secure, scalable, and maintainable web applications using the **Java & Spring Boot ecosystem**.
+I'm a Full Stack Developer with a strong backend foundation in **Java and Spring Boot**, focused on building secure, maintainable, and well-structured web applications.
 
-My main interests include backend architecture, RESTful API design, relational databases, authentication and authorization with Spring Security, and modern web development.
+My main experience is in **backend development**, working with REST APIs, relational databases, authentication and authorization, and layered architectures. On the frontend, I have experience with **HTML, CSS, JavaScript, and TypeScript**, and I'm currently expanding my skills in **React** and modern component-based development.
 
-I enjoy transforming academic projects into production-oriented applications by applying clean architecture, design patterns, and industry best practices.
+I enjoy understanding and building applications end to end, from the user interface and API integration to business logic and data persistence. I also like evolving academic projects beyond their original requirements by incorporating new technologies, better architecture, and industry practices.
+
 
 # 💻 Tech Stack & Core Skills
 

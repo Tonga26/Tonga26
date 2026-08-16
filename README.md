@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-**Software Engineering Student @ UTN | Mendoza, Argentina 🇦🇷**
+**Programming Student @ UTN | Mendoza, Argentina 🇦🇷**
 
 I'm a Full Stack Software Developer passionate about building secure, scalable, and maintainable web applications using the **Java & Spring Boot ecosystem**.
 
